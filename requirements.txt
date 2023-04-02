@@ -2,3 +2,5 @@ pandas
 numpy
 matplotlib
 plotly
+PyPDF2
+tabula-py
